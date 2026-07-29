@@ -1,0 +1,10 @@
+{
+  "remember": true,
+  "remember_for": 1,
+  "extend_session_lifespan": true,
+  "acr": "",
+  "amr": [],
+  "subject": "",
+  "force_subject_identifier": "",
+  "context": {}
+}
