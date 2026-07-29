@@ -1,0 +1,38 @@
+{
+  "ignore_nested": [
+  ],
+  "content": {
+    "created_at": "1234",
+    "updated_at": "1234",
+    "nested":{
+      "created_at": 1233,
+      "nested": {
+        "created_at": 1233,
+        "arr": [
+          {
+            "created_at": 1234
+          },
+          {
+            "updated_at": 1234
+          }
+        ]
+      }
+    },
+    "arr": [
+      {
+        "created_at": 1234
+      },
+      {
+        "updated_at": 1234,
+        "arr": [
+          {
+            "created_at": 1235
+          },
+          {
+            "updated_at": 1234
+          }
+        ]
+      }
+    ]
+  }
+}
